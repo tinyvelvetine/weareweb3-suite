@@ -1,0 +1,27 @@
+{
+  "name": "weareweb3-suite",
+  "version": "1.0.0",
+  "description": "Join the Web3 revolution with a comprehensive suite of tools and resources for decentralized applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyvelvetine/weareweb3-suite"
+  },
+  "author": "tinyvelvetine",
+  "license": "MIT",
+  "dependencies": {
+    "weareweb3-suite": "1.0.0",
+    "weareweb3-gallery-suite": "1.0.0",
+    "react-redux": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "socket.io": "1.0.0",
+    "helmet": "1.0.0",
+    "web3-react": "1.0.0",
+    "node-sass": "1.0.0",
+    "commander": "1.0.0",
+    "react": "1.0.0"
+  }
+}
